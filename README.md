@@ -1,1 +1,1 @@
-# HappySmilesApp
+# DentistApp
